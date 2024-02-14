@@ -1,4 +1,4 @@
-# AspNet + Vue Autentication Sample
+# ASPNET + Vue + EntraId Authentication
 
 Exemplo de configuração do EntraId para: \
 	- Backend: API em ASPNET 6 usando os grupos do EntraId para autorização. \
